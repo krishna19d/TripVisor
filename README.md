@@ -79,4 +79,4 @@ Here’s an overview of the main components in the project:
 ## 📦 Installation
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/YourUserName/TripVisor.git
+   git clone https://github.com/krishna19d/TripVisor.git
