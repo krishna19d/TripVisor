@@ -75,8 +75,3 @@ Here’s an overview of the main components in the project:
 - **AI APIs** – For itinerary generation and personalization.  
 
 ---
-
-## 📦 Installation
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/krishna19d/TripVisor.git
