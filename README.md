@@ -55,6 +55,14 @@ Here’s an overview of the main components in the project:
 - **notifications_screen** – Travel updates, reminders, and alerts.  
 - **profile_screen** – User profile and settings.  
 
+### screenshots
+![Screenshot 1](./1.png)
+![Screenshot 2](./2.png)
+![Screenshot 3](./3.png)
+![Screenshot 4](./4.png)
+![Screenshot 5](./5.png)
+![Screenshot 6](./6.png)
+
 ### Widgets
 - **place_card** – Reusable card for displaying places.  
 - **trip_card** – Compact summary of a trip.  
